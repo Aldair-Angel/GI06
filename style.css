@@ -1,0 +1,40 @@
+#titulo {
+    color: black   
+}
+
+#titulo{
+
+    text-align: center;
+    text-decoration: solid;
+
+}
+
+#titulo{
+    background-color: rgb(87, 87, 255);
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px black;
+
+}
+
+#SubTitulo{
+    text-align: center;
+}
+
+.texto {
+    color: rgb(0, 0, 0);
+}
+
+#mision {
+    background-color: rgb(255, 188, 99);
+}
+
+#vision {
+    background-color: rgb(255, 188, 99);
+}
+
+#PiePagina{
+    background-color: rgb(119, 119, 255);
+    
+}
+
