@@ -17,6 +17,42 @@
 
 }
 
+#DescripcionVideo{
+    text-align: center;
+    text-decoration: solid;
+}
+
+#Logo{
+    height: 130px;
+    width: 300px;
+    float: left;
+}
+
+.menu{
+    float: right;
+    border: solid 10px steelblue;
+    border-radius: 5px;
+    margin: 0 15px;
+    padding: 10px 15px;
+}
+
+#portada{
+    height: 130px;
+}
+
+/* #Logo{
+    float: left;
+    display: inline;
+    width: 20%;
+    margin: auto;
+}
+
+.menu{
+    border: solid 3px tomato;
+    border-radius: 5px;
+    margin: 0 15px;
+} */
+
 #SubTitulo{
     text-align: center;
 }
@@ -38,5 +74,16 @@
     
 }
 
+#Personas{
+    display: block;
+    width: 80%;
+    margin: auto;
+}
 
-
+#LinkYT{
+    display: block;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    
+}
